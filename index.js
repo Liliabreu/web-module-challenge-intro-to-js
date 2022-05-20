@@ -19,7 +19,14 @@ Do the following:
 
    HINT: no function required
 */
+const votingage =21
+console.log(votingage)
+if (votingage >=18){
+  console.log (true)
 
+} else{
+  console.log (false)
+}
 
 
 /*
@@ -33,8 +40,17 @@ Do the following:
 
    HINT: no function required
 */
-
-
+let firstthing ="2"
+const secondthing ="2"
+console.log(firstthing)
+console.log(secondthing)
+if(firstthing===secondthing){
+  firstthing=1
+  console.log (firstthing)
+}
+else{
+  console.log ("not equal")
+}
 
 
 
